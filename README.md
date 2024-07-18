@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shibinp003
-- 👀 I’m interested in ...  Movies, Web Series 
+- 👀 I’m interested in ...  Fishing,Movies, Web Series 
 - 🌱 I’m currently learning ... Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... github/shibinp003
